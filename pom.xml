@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.roadofcloud</groupId>
+    <groupId>com.cloudhub</groupId>
     <artifactId>roc-server-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>roc-server-java</name>
     <!-- FIXME change it to the project's website -->
-    <url>https://www.roadofcloud.com</url>
+    <url>https://cloudhub.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

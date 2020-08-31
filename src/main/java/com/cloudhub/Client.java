@@ -1,4 +1,4 @@
-package com.roadofcloud;
+package com.cloudhub;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

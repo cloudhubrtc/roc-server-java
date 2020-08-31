@@ -1,4 +1,4 @@
-package com.roadofcloud;
+package com.cloudhub;
 
 import org.junit.Test;
 
